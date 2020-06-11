@@ -8,8 +8,6 @@ C:\Users\NEDL\Desktop\NeDL\VisualStudioProjects\StackCalculatorApi20200608\bin\D
 C:\Users\NEDL\Desktop\NeDL\VisualStudioProjects\StackCalculatorApi20200608\bin\Debug\netcoreapp3.1\StackCalculatorApi20200608.dll
 C:\Users\NEDL\Desktop\NeDL\VisualStudioProjects\StackCalculatorApi20200608\bin\Debug\netcoreapp3.1\StackCalculatorApi20200608.pdb
 C:\Users\NEDL\Desktop\NeDL\VisualStudioProjects\StackCalculatorApi20200608\obj\Debug\netcoreapp3.1\StackCalculatorApi20200608.csprojAssemblyReference.cache
-C:\Users\NEDL\Desktop\NeDL\VisualStudioProjects\StackCalculatorApi20200608\obj\Debug\netcoreapp3.1\StackCalculatorApi20200608.csproj.CoreCompileInputs.cache
-C:\Users\NEDL\Desktop\NeDL\VisualStudioProjects\StackCalculatorApi20200608\obj\Debug\netcoreapp3.1\StackCalculatorApi20200608.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\NEDL\Desktop\NeDL\VisualStudioProjects\StackCalculatorApi20200608\obj\Debug\netcoreapp3.1\StackCalculatorApi20200608.AssemblyInfoInputs.cache
 C:\Users\NEDL\Desktop\NeDL\VisualStudioProjects\StackCalculatorApi20200608\obj\Debug\netcoreapp3.1\StackCalculatorApi20200608.AssemblyInfo.cs
 C:\Users\NEDL\Desktop\NeDL\VisualStudioProjects\StackCalculatorApi20200608\obj\Debug\netcoreapp3.1\StackCalculatorApi20200608.RazorTargetAssemblyInfo.cache
@@ -18,3 +16,11 @@ C:\Users\NEDL\Desktop\NeDL\VisualStudioProjects\StackCalculatorApi20200608\obj\D
 C:\Users\NEDL\Desktop\NeDL\VisualStudioProjects\StackCalculatorApi20200608\obj\Debug\netcoreapp3.1\StackCalculatorApi20200608.dll
 C:\Users\NEDL\Desktop\NeDL\VisualStudioProjects\StackCalculatorApi20200608\obj\Debug\netcoreapp3.1\StackCalculatorApi20200608.pdb
 C:\Users\NEDL\Desktop\NeDL\VisualStudioProjects\StackCalculatorApi20200608\obj\Debug\netcoreapp3.1\StackCalculatorApi20200608.genruntimeconfig.cache
+C:\Users\NEDL\Desktop\NeDL\VisualStudioProjects\StackCalculatorApi20200608\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\NEDL\Desktop\NeDL\VisualStudioProjects\StackCalculatorApi20200608\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NEDL\Desktop\NeDL\VisualStudioProjects\StackCalculatorApi20200608\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NEDL\Desktop\NeDL\VisualStudioProjects\StackCalculatorApi20200608\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\NEDL\Desktop\NeDL\VisualStudioProjects\StackCalculatorApi20200608\obj\Debug\netcoreapp3.1\StackCalculatorApi20200608.csproj.CoreCompileInputs.cache
+C:\Users\NEDL\Desktop\NeDL\VisualStudioProjects\StackCalculatorApi20200608\obj\Debug\netcoreapp3.1\StackCalculatorApi20200608.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NEDL\Desktop\NeDL\VisualStudioProjects\StackCalculatorApi20200608\obj\Debug\netcoreapp3.1\StackCalculatorApi20200608.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NEDL\Desktop\NeDL\VisualStudioProjects\StackCalculatorApi20200608\obj\Debug\netcoreapp3.1\StackCalculatorApi20200608.csproj.CopyComplete

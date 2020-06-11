@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "OpFKaZtoN22m08iUg9Qg9JqUuvKUkavj/3GwrZOXHb6mI+at7spEbGssFRVTP/3kENue0424+NtlXTtUZ8rByA==",
+  "dgSpecHash": "9LVfGGnxxTkFiNmm2NMRG3qyiLC2XqKFz7lLfyXPmiqK2ZyHcpvmrbCU0SaFxSZKkF9MlIO7x6WTlm4hoAGqpQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\NEDL\\Desktop\\NeDL\\VisualStudioProjects\\StackCalculatorApi20200608\\StackCalculatorApi20200608.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\NEDL\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\NEDL\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\NEDL\\.nuget\\packages\\swashbuckle.aspnetcore\\5.4.1\\swashbuckle.aspnetcore.5.4.1.nupkg.sha512",
+    "C:\\Users\\NEDL\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.4.1\\swashbuckle.aspnetcore.swagger.5.4.1.nupkg.sha512",
+    "C:\\Users\\NEDL\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.4.1\\swashbuckle.aspnetcore.swaggergen.5.4.1.nupkg.sha512",
+    "C:\\Users\\NEDL\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.4.1\\swashbuckle.aspnetcore.swaggerui.5.4.1.nupkg.sha512"
+  ],
   "logs": []
 }
